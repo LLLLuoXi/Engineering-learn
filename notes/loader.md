@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-03-19 22:44:22
+ * @LastEditTime: 2022-03-19 22:49:57
  * @LastEditors: your name
  * @Description: loader
  * 
@@ -23,7 +23,7 @@ loader函数的将在模块解析的过程中被调用，以得到最终的源�
 可以看出处理``loader``的过程是在``ast``语法分析之前，参与打包过程，所以loader文件里不能用``ES module``。
 
 ## 🧐 处理loaders流程：
-![处理loader流程.png](https://s2.loli.net/2022/03/19/sVCHSAxT8um4PWh.png)
+![处理loader流程1.png](https://s2.loli.net/2022/03/19/MkDSxzwjZI5oBY8.png)
 
 ``loader``解析时候确实是从上往下，但执行``loader``的时候是从下往上，从``loader``数组的后面开始。
 
