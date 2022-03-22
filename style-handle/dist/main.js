@@ -1,6 +1,16 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./src/assets/healthy.png":
+/*!********************************!*\
+  !*** ./src/assets/healthy.png ***!
+  \********************************/
+/***/ ((module) => {
+
+module.exports= `img-f683e.png`
+
+/***/ }),
+
 /***/ "./src/assets/index.css":
 /*!******************************!*\
   !*** ./src/assets/index.css ***!
@@ -57,7 +67,7 @@ var __webpack_exports__ = {};
   \**********************/
 /*
  * @Author: luoxi
- * @LastEditTime: 2022-03-21 21:28:17
+ * @LastEditTime: 2022-03-22 23:04:45
  * @LastEditors: your name
  * @Description: 
  */
@@ -65,6 +75,14 @@ var __webpack_exports__ = {};
 const content = __webpack_require__(/*! ./assets/index.css */ "./src/assets/index.css")
 
 console.log('css源代码', content);
+
+// 生成图片
+const src = __webpack_require__(/*! ./assets/healthy.png */ "./src/assets/healthy.png");
+const img = document.createElement('img');
+console.log('src', src);
+
+img.src = src;
+document.body.appendChild(img);
 
 })();
 
