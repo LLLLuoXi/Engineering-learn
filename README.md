@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-03-19 22:45:20
+ * @LastEditTime: 2022-03-23 21:56:32
  * @LastEditors: your name
  * @Description: 
 -->
@@ -10,3 +10,4 @@
 # 📘 notes
 
 - 📖 [loader原理](./notes/loader.md)  
+- 📖 [plugin原理](./notes/plugin.md)  
