@@ -1,0 +1,10 @@
+@import "./pager.css";
+
+.red {
+  color: "#f40";
+  background: url("./healthy.png");
+  font-size: 2em;
+  width: 1000px;
+  height: 1000px;
+  border: 2px solid;
+}

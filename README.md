@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-03-29 22:05:30
+ * @LastEditTime: 2022-03-30 22:19:04
  * @LastEditors: your name
  * @Description: 
 -->
@@ -13,3 +13,4 @@
 - 📖 [plugin原理](./notes/plugin.md)  
 - 📖 [webpack-dev-server](./dev-server/README.md)  
 - 📖 [multi-entry](./multi-entry/webpack.config.js)  
+- 📖 [split-css](./split-css/webpack.config.js)  
