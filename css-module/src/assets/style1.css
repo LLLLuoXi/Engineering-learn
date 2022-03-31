@@ -1,0 +1,12 @@
+/* 静态使用的样式 不需要转换 */
+:global(.main) {
+  background-color: antiquewhite;
+}
+
+/* 没有使用global的类名 默认使用了local  :local(.c1) */
+.c1 {
+  color: red;
+}
+.c2 {
+  color: green;
+}
