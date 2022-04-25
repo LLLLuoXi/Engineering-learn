@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-04-07 22:47:56
+ * @LastEditTime: 2022-04-25 22:44:10
  * @LastEditors: your name
  * @Description: 
 -->
@@ -17,3 +17,4 @@
 - 📖 [css-module](./css-module/webpack.config.js)  
 - 📖 [extract-css](./extract-css/webpack.config.js)  
 - 📖 [webpack-babel](./webpack-babel/webpack.config.js)  
+- 📖 [split-chunks](./split-chunks/webpack.config.js)  
