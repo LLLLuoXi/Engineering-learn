@@ -1,11 +1,11 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-04-25 22:44:10
+ * @LastEditTime: 2022-04-27 23:33:21
  * @LastEditors: your name
  * @Description: 
 -->
 # Engineering-learn
- 🛠️ Some of engineering notes and exercises
+ 🛠️ Some of engineering notes and exercises 
 
 # 📘 notes
 
@@ -18,3 +18,4 @@
 - 📖 [extract-css](./extract-css/webpack.config.js)  
 - 📖 [webpack-babel](./webpack-babel/webpack.config.js)  
 - 📖 [split-chunks](./split-chunks/webpack.config.js)  
+- 📖 [vue2-webpack](./vue2-webpack/webpack.config.js)  
