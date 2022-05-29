@@ -1,0 +1,1 @@
+{"version":3,"file":"app.ea6b4.js","mappings":";;;;;AAAA;AACA;AACA;AACA;AACA;AACA;AACA,sB","sources":["webpack://template-loader/./src/app.js"],"sourcesContent":["/*\r\n * @Author: luoxi\r\n * @LastEditTime: 2022-05-29 22:57:34\r\n * @LastEditors: your name\r\n * @Description: \r\n */\r\nconsole.log('app.js');"],"names":[],"sourceRoot":""}
