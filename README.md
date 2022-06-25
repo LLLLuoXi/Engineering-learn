@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-05-14 23:50:26
+ * @LastEditTime: 2022-06-25 22:58:36
  * @LastEditors: your name
  * @Description: 
 -->
@@ -9,6 +9,7 @@
 
 # 📘 notes
 
+## 📦 webpack
 - 📖 [loader原理](./notes/loader.md)  
 - 📖 [plugin原理](./notes/plugin.md)  
 - 📖 [webpack-dev-server](./dev-server/README.md)  
@@ -20,3 +21,6 @@
 - 📖 [manual-subcontracting](./manual-subcontracting/README.md)  
 - 📖 [split-chunks](./split-chunks/webpack.config.js)  
 - 📖 [vue2-webpack](./vue2-webpack/webpack.config.js)  
+
+## 🪓 模块化 
+- 📖 [CommonJS](./notes/CommonJS.md)  
