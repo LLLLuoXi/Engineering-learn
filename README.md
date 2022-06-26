@@ -1,6 +1,6 @@
 <!--
  * @Author: luoxi
- * @LastEditTime: 2022-06-25 22:58:36
+ * @LastEditTime: 2022-06-26 22:48:10
  * @LastEditors: your name
  * @Description: 
 -->
@@ -24,3 +24,4 @@
 
 ## 🪓 模块化 
 - 📖 [CommonJS](./notes/CommonJS.md)  
+- 📖 [ES Module](./notes/ESModule.md)  
